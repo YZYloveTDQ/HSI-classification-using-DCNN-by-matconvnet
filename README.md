@@ -6,6 +6,6 @@ If you want to configure the libs refered to above, please consult this blog: ht
 
 --> you need download one dataset from https://pan.baidu.com/s/1rU8YeAfsvlALiU_qakW4qA (提取码：3z6z), and put it into a new file ".\data\mnist-bnorm"
 
-This code can obtain the classification accuracy, average accuracy, kappa coefficient by improving the original matconvent lib.
+This code can obtain the classification accuracy (OA), average accuracy (AA), kappa coefficient (kappa) by improving the original matconvent lib.
 
 If you have any questions, please contact me feel free.  Email: xiaofei_zh@foxmail.com
