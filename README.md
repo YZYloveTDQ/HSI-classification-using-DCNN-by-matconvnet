@@ -1,6 +1,6 @@
 # HSI-classification-by-matconvnet
 
-This code is dubugged with Matconvent Lib (1.0-beta25), cuda 9.0, and cudnn 7.0. 
+This code is dubugged with Matlab R2018a, Matconvent Lib (1.0-beta25), cuda 9.0, and cudnn 7.0. 
 
 The Matconvent URL: http://www.vlfeat.org/matconvnet/
 
