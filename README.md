@@ -10,4 +10,4 @@ If you want to configure the libs refered to above, please consult this blog: ht
 
 This code can obtain the classification accuracy (OA), average accuracy (AA), kappa coefficient (kappa) by improving the original matconvent lib.
 
-If you have any questions, please contact me feel free.  Email: xiaofei_zh@foxmail.com
+If you have any questions, please contact me feel free.  Email: xiaofei_zh@foxmail.com  
