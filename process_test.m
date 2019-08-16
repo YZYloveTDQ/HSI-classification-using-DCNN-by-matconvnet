@@ -1,3 +1,5 @@
+% This code was created by Xiaofei Zhang.
+
 function [OA,AA,Kappa,CA,accu_martix] = process_test(net,test_samples,test_labels)
 
 net.move('gpu') ;
